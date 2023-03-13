@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Sliding surface-based path planning for unmanned aerial
+  vehicles aerobatics
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Oleg Alexandro
+    family-names: Cravioto
+    email: oleg19cg@gmail.com
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7728226
+    description: 'UAV 3D path planning '
+repository-code: >-
+  https://github.com/oleg19cg/3D_path_planning_for_aerobatics.git
+keywords:
+  - 3D path planing
+  - Sliding mode surface
+  - Multivariable super twisting algorithm
+  - LMI
+version: '1.0'
+date-released: '2023-03-12'
